@@ -1,0 +1,11 @@
+.articles {
+    display: flex;
+    justify-content: center;
+}
+.titles {
+    text-align: left;
+}
+
+.titles li {
+    margin: 10px;
+}
