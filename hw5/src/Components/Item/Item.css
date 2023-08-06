@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid gray;
+    margin: 2px;
+    background-color: white;
+}
