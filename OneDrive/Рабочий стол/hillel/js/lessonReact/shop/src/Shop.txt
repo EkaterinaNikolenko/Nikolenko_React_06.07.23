@@ -1,0 +1,13 @@
+Router:
+home => 
+profile => 
+product/{:id} => 
+category => query? 
+bucket =>
+
+components:
+login => modal
+header => search 
+home => mini-product
+menu =>
+product =>
